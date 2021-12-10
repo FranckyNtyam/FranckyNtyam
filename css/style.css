@@ -26,13 +26,7 @@ html {
   
   #banner {
     height: 46rem;
-<<<<<<< HEAD
-    background-image: url("/Responsive_web/images/logo_imax.jpeg");
-||||||| ae2ae6e
     background-image: url('images/logo_imax.jpeg');
-=======
-    background-image: url('/images/logo_imax.jpeg');
->>>>>>> ec3e2551158d58788abb483231f32694b3625ee3
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
