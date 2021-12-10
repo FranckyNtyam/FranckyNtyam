@@ -86,20 +86,9 @@ html {
     font-weight: bold;
   }
   
-  .post .image-container {
-    width: 100%;
-  }
-  
-  /* Blog Images */
-  
-  .images {
-    margin-bottom: 20%;
-  }
-  
-  .images .image-container {
-    display: inline-block;
-    width:50%;
-  }
+post button {
+  texte-align: center;
+}
 
   h1,
   h2,
